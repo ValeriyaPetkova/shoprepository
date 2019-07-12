@@ -1,0 +1,40 @@
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\bin\Debug\Shop.exe
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\bin\Debug\Shop.pdb
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.Form1.resources
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.exe
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.pdb
+D:\Georgi\Упражнение ООП (C#)\week 6\homework 3\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Валерия\Desktop\Shop-ready\Shop\Shop\obj\Debug\Shop.pdb
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\bin\Debug\Shop.exe.config
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\bin\Debug\Shop.exe
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\bin\Debug\Shop.pdb
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.Form1.resources
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.exe
+G:\1 course\STD - OOP\Shop-ready\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Valeriya\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Valeriya\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\Valeriya\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\Valeriya\Desktop\Shop\Shop\obj\Debug\Shop.pdb
